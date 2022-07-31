@@ -1,13 +1,13 @@
 <h1 align="center"> Hello 👋🏽, I'm Venkatesan </h1>
 
-  <img align="right" alt="gif" src="https://media.giphy.com/media/PmAjqmm4beKervYzFr/giphy.gif"/>
-
-- 🔭 I'm currently working on my dreams &#10024
-- &#128217 I am currently learn everything &#128512
-- 🥅 2022 Goals: Create portfolio
-- ⚡ Fun fact: I Love playing games &#128165
-- 💬 Ask me about anything, I am happy to help!
-- 📫 How to reach me: venkatesanit2020@gmail.com &#9993
+  <img align="right" alt="gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
+  
+- :zap: I'm currently working on my dreams :sparkles:
+- :orange_book: I am currently learn everything :smiley:
+- :droplet: 2022 Goals :hatching_chick: : Create portfolio
+- :comet: Fun fact: I Love playing games :boom:
+- :left_speech_bubble: Ask me about anything, I am happy to help!
+- :email: How to reach me: venkatesanit2020@gmail.com 
 
 <br />
 
